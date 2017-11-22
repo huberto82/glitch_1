@@ -2,7 +2,7 @@
 
 ## Part 1 of Free Code Camp Backend Challenges
 
-Powered by [Github](https://github.com/siwoncezary/glitch_3) | [FreeCodeCamp](http://www.freecodecamp.com/siwoncezary) | [Glitch](https://api-3.glitch.me/) 
+Powered by [Github](https://github.com/siwoncezary/glitch_1) | [FreeCodeCamp](http://www.freecodecamp.com/siwoncezary) | [Glitch](https://glitch-1.glitch.me/) 
 
 A timestamp microservice similar to [this](https://timestamp-ms.herokuapp.com/).
 
