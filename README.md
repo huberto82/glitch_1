@@ -1,5 +1,5 @@
 # Manage Node.js projects and npm packages using package.json
-==============================
+
 ## Part 1 of Free Code Camp Backend Challenges
 ------------------------------
 A timestamp microservice similar to [this](https://timestamp-ms.herokuapp.com/).
@@ -16,6 +16,6 @@ https://timestamp-ms.herokuapp.com/1450137600
 ```js
 { "unix": 1450137600, "natural": "December 15, 2015" }
 ```
-## Try this at [Glitch](https://glitch-1.glitch.me/)
+Try this at [Glitch](https://glitch-1.glitch.me/)
 
 Made by (ee$
